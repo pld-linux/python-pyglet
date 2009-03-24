@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Międzyplatformowa biblioteka Pythona do obsługi okien i mul
 Name:		python-%{module}
 Version:	1.1.3
 Release:	1
-License:	BSD/BSD
+License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pyglet.googlecode.com/files/%{module}-%{version}.tar.gz
 # Source0-md5:	54530c20a95fffeb6c60fd4a9b073b83
