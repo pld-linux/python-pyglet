@@ -2,12 +2,12 @@
 Summary:	A cross-platform windowing and multimedia library for Python
 Summary(pl.UTF-8):	Międzyplatformowa biblioteka Pythona do obsługi okien i multimediów
 Name:		python-%{module}
-Version:	1.1.3
+Version:	1.1.4
 Release:	1
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pyglet.googlecode.com/files/%{module}-%{version}.tar.gz
-# Source0-md5:	54530c20a95fffeb6c60fd4a9b073b83
+# Source0-md5:	b2363642dc3832e95dc4e63a6793467f
 URL:		http://www.pyglet.org/
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	rpm-pythonprov
