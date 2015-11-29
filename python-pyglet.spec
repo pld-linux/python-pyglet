@@ -23,7 +23,7 @@ BuildRequires:	python3-distribute
 BuildRequires:	python3-modules
 %endif
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Suggests:	python-PyOpenAL
 Requires:	python-PyOpenGL
 BuildArch:	noarch
