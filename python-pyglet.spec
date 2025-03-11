@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Międzyplatformowa biblioteka Pythona do obsługi okien i mul
 Name:		python-%{module}
 # keep 1.4.x here for python2 support
 Version:	1.4.11
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/pyglet/
